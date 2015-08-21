@@ -1,0 +1,40 @@
+/*Toonami '97 Theme*/
+#background{
+margin:0 auto;padding:0;
+background-color:#000;
+background-image:url('http://i.imgur.com/g3QX22j.jpg');
+background-repeat:no-repeat;
+position:fixed;
+background-position:top center;
+width:100%;
+height:1527px;
+}
+#logo{
+background-image: url('http://i.imgur.com/N67ZbUC.png');
+height: 170px;
+width: 500px;
+margin-top: -169px;
+margin-left:30px;
+position: absolute;
+background-repeat: no-repeat;
+}
+#page.front{box-shadow:0 0 0 4px rgba(22, 33, 43, 1),}
+#page{border:solid 1px rgba(22, 33, 43, 1); border-radius:5px;width:1050px;margin-bottom:75px;
+background: #3a5e7f; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #3a5e7f 0%, #3a5e7f 83%, #23384c 100%); /* FF3.6+ */
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#3a5e7f), color-stop(83%,#3a5e7f), color-stop(100%,#23384c)); /* Chrome,Safari4+ */
+background: -webkit-radial-gradient(center, ellipse cover,  #3a5e7f 0%,#3a5e7f 83%,#23384c 100%); /* Chrome10+,Safari5.1+ */
+background: -o-radial-gradient(center, ellipse cover,  #3a5e7f 0%,#3a5e7f 83%,#23384c 100%); /* Opera 12+ */
+background: -ms-radial-gradient(center, ellipse cover,  #3a5e7f 0%,#3a5e7f 83%,#23384c 100%); /* IE10+ */
+background: radial-gradient(ellipse at center,  #3a5e7f 0%,#3a5e7f 83%,#23384c 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a5e7f', endColorstr='#23384c',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+nav a {-webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.5);color: #6F5C56;padding: 0 11px;margin: 0 6px;line-height: 30px;text-align: center;font-family: SF_TRANSROBOTICS,SF_TRANSROBOTICSIE;font-size: 23px;text-shadow: 0 0 10px black;text-decoration: none;z-index:50;}
+.slide-out{
+          background: #32506D;
+          border: 1px solid #000;
+		  color: white;
+}
+.handle{
+background: #32506D;
+}

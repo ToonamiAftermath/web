@@ -1,0 +1,177 @@
+<style>
+li { color:#BBADA6 !important; font-size:15px !important;}
+ol, .art-post ul {
+padding-left: 40px !important;
+padding: 18px;
+}
+.art-post li { padding:0 0 8px 18px}
+
+h2{ color:#EF822A !important;text-shadow:0 0 13px #EF822A;}
+</style>
+
+<h2 style="text-shadow:0 0 13px white !important;color: white!important">Changelog</h2>
+</ul><h2>January 2015</h2><ul>
+<li>Removed jwplayer from Connectcast streams because of Connectcast removing rtmp (jwplayer still option in the future) - 9/1/15</li>
+<li>Added hotkeys for Jwplayer player (arrow keys for volume/channel and space for pause/play) - 9/1/15</li>
+<li>Added new player for Connectcast streams - 9/1/15</li>
+<li>Added Connectcast as a new stream service (Vaughn live still being used on PST and supported for fallback) - 9/1/15</li>
+<li>Added Popout Feature - 9/1/15</li>
+<li>Added Test Stream to to test 2nd server temporarily - 2/1/15</li>
+
+</ul><h2>December 2014</h2><ul>
+<li>Schedule - Added new block "Kids WB weekends at 8am EST/PST - 20/12/14</li>
+<li>Schedule - Added new block "Marvel vs Capcom" weekdays at 12pm EST/PST - 13/12/14</li>
+
+</ul><h2>November 2014</h2><ul>
+<li>Added display of block titles in the HUD and schedule page. - 16/11/14</li>
+<li>Schedule - Added new block "All Kids Outta The Pool" weekdays at 2am EST/PST - 5/11/14</li>
+</ul><h2>October 2014</h2><ul>
+<li>Updated Schedule page with tabbed days. - 15/10/14</li>
+
+</ul><h2>September 2014</h2><ul>
+<li>Added Aftermath Radio - audio stream. - 7/09/14</li>
+<li>Re-added ad views into the HUD. - 4/09/14</li>
+
+</ul><h2>August 2014</h2><ul>
+<li>Re-added movie views into the HUD. - 26/08/14</li>
+<li>Replaced Justin.tv with Vaughnlive.tv streaming services. - 11/08/14</li>
+
+</ul><h2>July 2014</h2><ul>
+<li>Updated HUD background graphics Added navigation buttons on the HUD and Added refresh button on the video player. - 22/07/14</li>
+<li>Replaced Flash Media Encoder with Open Broadcaster Software and increase framerate from 16 max to 24-30 FPS depending on content - 07/07/14</li>
+<li>Schedule Hud php back end replaced with javascript - 03/07/14</li>
+<li>Replaced Schedule page added showtime calculation, dynamic showlisting and detailed show info 01/07/14</li>
+
+</ul><h2>May 2014</h2><ul>
+<li>Theme setting stored in cookie, theme bugs fixed. - 28/05/14</li>
+<li>Automated Theme selecting based on schedule block broadcasting. - 27/05/14</li>
+<li>Theme Selector tab added - 25/05/14</li>
+<li>Drupal removed as site content management system. Rebuilt site from scratch. - 24/05/14</li>
+
+</ul><h2>November 2013</h2><ul>
+<li>Added Parallax effect on scrolling pages and Replaced background image. - 17/11/13</li>
+<li>Replaced batchscript Scheduler with all new Powershell based Scheduler script. Features advanced scheduling functions and streamlined schedule editing. - 08/11/13</li>
+
+</ul><h2>October 2013</h2><ul>
+<li>Replaced logo with corrected "toonami" dimensions. <a target="_blank"href="http://imgur.com/3ze4G1z">http://imgur.com/3ze4G1z</a> - 02/10/13</li>
+
+</ul><h2>September 2013</h2><ul>
+<li>Added Changelog page to the site. Displays changes made to the site. - 30/09/13</li>
+<li>Added Schedule HUD feature auto -correct HUD info if script went to sleep or is otherwise behind. - 28/09/13</li>
+<li>Added 'Skip' button to Schedule HUD. - 25/09/13</li>
+<li>Updated Scheduler and Schedule HUD back end data handling. Takes show information straight from playlist files. - 23/09/13</li>
+<li>Added countdown timer to top right corner of site displaying time until current show is finished. - 22/09/13</li>
+<li>Added Pacific Standard Time (PST) alternative stream. 3 hours behind the Eastern Standard Time (EST) stream. - 18/09/2013</li>
+
+</ul><h2>July 2013</h2><ul>
+<li>Added Amazon affiliate link filter system for chosen product words to Chat. - 12/07/13</li>
+
+</ul><h2>June 2013</h2><ul>
+<li>Schedule - Added new block "Comic Corner" featuring 60's comic book classics: Spiderman, Hulk, Iron Man, Captain America, Fantastic Four, Space Ghost and Birdman. - 08/06/13</li>
+
+</ul><h2>April 2013</h2><ul>
+<li>New Chat Features - 08/04/13</li>
+<li>Added persistent login. - 08/04/13</li>
+<li>Added Mod colors. - 08/04/13</li>
+<li>Updated loading interface. - 08/04/13</li>
+<li>Added Emoticons - 08/04/13</li>
+
+</ul><h2>March 2013</h2><ul>
+<li>Added Emoticon support to Chat - 14/03/13</li>
+<li>Added bad word filter for Chat. Filters bad words for other users only. - 12/03/13</li>
+<li>Updated Chat. Removed many bugs that prevented users from loading, registering or logging in the chat, . - 10/03/13</li>
+<li>Launched Toonami Aftermath original Chat system. Preliminary run, many bugs.  - 08/03/13</li>
+<li>Removed Ustream chat system due to a change in Ustream's policies. - 06/03/13</li>
+
+</ul><h2>December 2012</h2><ul>
+<li>Added Modular promo rotation system including most promos. - 07/12/12</li>
+
+</ul><h2>August 2012</h2><ul>
+<li>Added Amazon Ad display to the HUD. - 01/08/12</li>
+
+</ul><h2>June 2012</h2><ul>
+<li>Added show rotation system. - 02/06/12</li>
+<li>Schedule - Added new rotation timeslot featuring Mobile Suit Gundam and Mobile Suit Zeta Gundam to "Toonami OG" block. - 02/06/12</li>
+<li>Schedule - Added new rotation timeslot featuring 8th Ms Team, Stardust Memory and War in a Pocket to "Giant Robot Hour" block. - 02/06/12</li>
+
+</ul><h2>May 2012</h2><ul>
+<li>Added automated channel replacing script. - 23/05/12</li>
+
+</ul><h2>April 2012</h2><ul>
+<li>Added Chat toggle feature to hide the chat if desired. - 24/03/12</li>
+
+</ul><h2>February 2012</h2><ul>
+<li>Added new block "Hall of Justice" featuring DC classics: Batman Beyond, Batman, Superman and Justice League - 11/02/12</li>
+<li>Added Fighting Spirit (Hajime No Ippo) to the "Toonami AfterDark" block. - 11/02/12</li>
+<li>Added Patlabor to the "Giant Robot Hour" block - 11/02/12</li>
+</ul><h2>January 2012</h2><ul>
+<li>Added "Schedule HUD" feature. Displays currently playing show info.  Tagline: "Don't be the last to know "What's next?"" - 24/01/12</li>
+<li>Added toonami font to menu and other page elements. - 12/01/12</li>
+<li>Added page dimmer toggle button. Makes all page elements besides the video darker. - 05/01/12</li>
+</ul><h2>December 2011</h2><ul>
+<li>Added new Christmas promos to the Christmas Special. - 24/12/11</li>
+
+</ul><h2>November 2011</h2><ul>
+<li>Added better resizing functionality to the Fullscreen feature. Can now resize and fill any size or aspect ratio window. - 11/11/11</li>
+<li>Updated Scheduler script to be fully Automated, no manual input required. - 09/11/11</li>
+
+</ul><h2>October 2011</h2><ul>
+<li>Added New Halloween Bumper and Promo to the Halloween Special. - 31/10/11</li>
+<li>Added Fullscreen feature for stream and chat. - 27/10/11</li>
+<li>Replaced Background and Logo. <a  target="_blank" href="http://i.imgur.com/DwT4s.jpg">http://i.imgur.com/DwT4s.jpg</a> - 26/10/11</li>
+<li>Added Waterrmark occassional display on stream. - 17/10/11</li>
+<li>Added Chat warning and ban script for MIRC. - 14/10/11</li>
+<li>Replaced Virtual Machine with real machine stream setup made possible by concurrent RDP session patch for Windows. - 11/10/11</li>
+
+</ul><h2>August 2011</h2><ul>
+<li>Added Uninterrupted Power Supply to help protect server from upcoming Hurricane Irene. - 19/08/11</li>
+
+</ul><h2>May 2011</h2><ul>
+<li>Replaced DBZ episodes 1 -53 (Ocean Dub) Remastered with Dragon Box - 25/04/11</li>
+
+</ul><h2>March 2011</h2><ul>
+<li>Removed Mid Quality alternative stream. - 24/03/11</li>
+<li>Basic promo rotation system. Rotating DBZ character profiles and Toonami Reviews. - 22/03/11</li>
+<li>Added new block "Toonami OG". - 21/03/11</li>
+<li>Replaced theme with rust colored theme and background image. - 20/03/11</li>
+
+</ul><h2>February 2011</h2><ul>
+<li>Added Mid Quality alternative stream. - 15/02/11</li>
+<li>Replaced real machine stream setup with virtual machine for scalability and remote access compatibility. - 12/02/11</li>
+<li>Replaced template scheduler with batchscript based weekly scheduler. Manual input still required weekly. - 07/02/11</li>
+
+</ul><h2>January 2011</h2><ul>
+<li>Launched Official Toonami Aftermath Minecraft server. - 16/01/11</li>
+<li>Replaced Wolfdale E3110 server with Sandy Bridge 2500k new server. - 10/01/11</li>
+
+</ul><h2>December 2010</h2><ul>
+<li>Added Boost caching.  - 27/12/10</li>
+<li>Optimization of site PHP. - 27/12/10</li>
+<li>Added Christmas Special. - 24/12/10</li>
+<li>Replaced Webcamax with Kmplayer, SCFH DSF, and Virtual Audio Cable. - 16/12/10</li>
+<li>Added Low Quality alternative stream. - 16/12/10</li>
+
+</ul><h2>November 2010</h2><ul>
+<li>Consolidated Wolfdale e3200 stream server duties on to Wolfdale E3110 webserver. - 17/11/10</li>
+
+</ul><h2>October 2010</h2><ul>
+<li>Added Halloween Special - 31/10/10</li>
+
+</ul><h2>August 2010</h2><ul>
+<li>Replaced white hexagonal background image to Outer Space themed image. - 18/08/10</li>
+<li>Schedule - 8th MS Team, Digimon, Mission Hill, Full Metal Alchemist and Trigun added to the schedule. - 09/08/10</li>
+
+</ul><h2>July 2010</h2><ul>
+<li>Replaced Ustream with Justin.tv streaming services. - 14/07/10</li>
+<li>Replaced Ustream encoder with Adobe Flash Media Encoder. - 14/07/10</li>
+<li>Added custom promos by Youtube user Mercurius.  - 12/07/10</li>
+<li>Added Template Based Scheduling - 02/07/10</li>
+
+</ul><h2>June 2010</h2><ul>
+<li>Launched www.ToonamiAftermath.com. - 14/06/10</li>
+<li>Replaced Wolfdale E3110 with Wolfdale e3200 stream server. - 14/06/10</li>
+</ul><h2>May 2010</h2><ul>
+<li>Shut Down Toonami Aftermath temporarily. Started website development. - 01/04/10</li>
+</ul><h2>January 2010</h2><ul>
+<li>Added weekend schedule. - 30/01/10</li>
+<li>Launched Toonami Aftermath web stream at streaming service provider Ustream. - 18/01/10</li>

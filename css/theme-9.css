@@ -1,0 +1,71 @@
+/*The Ocho Theme*/
+@font-face {
+    font-family: swim;
+    src: url('/css/fonts/helveticaneue-blackcond-webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: swimie;
+	src: url('/css/fonts/helveticaneue-blackcond-webfont.eot');}
+
+#background{
+margin:0 auto;padding:0;
+background-color:#000;
+background-image: url('http://i.imgur.com/Wfewc7S.jpg');
+background-repeat: no-repeat;
+position: fixed;
+background-position: top center;
+width:100%;
+height:1527px;
+}
+#logo{
+background-image: url('http://i.imgur.com/9QCMFSx.png');
+height: 170px;
+width: 500px;
+margin-left: 30px;
+margin-top: -165px;
+position: absolute;
+background-repeat: no-repeat;
+}
+#page.front{}
+#page{border:solid 1px black; width:1050px;margin-bottom:75px;
+background: #C26969 ; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #C26969  0%, #6084B8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#C26969 ), color-stop(100%,#6084B8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(-45deg,  #C26969  0%,#6084B8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(-45deg,  #C26969  0%,#6084B8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(-45deg,  #C26969  0%,#6084B8 100%); /* IE10+ */
+background: linear-gradient(135deg,  #C26969  0%,#6084B8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#C26969 ', endColorstr='#6084B8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+nav a {font-family: swim,swimie !important;
+-webkit-text-stroke: 0.5px rgba(205, 205, 205, 0.5);
+color: rgba(255, 255, 255, 0.5);
+text-shadow: 0 0 40px rgba(255, 255, 255, 0.5);
+padding: 0 11px;
+margin: 0 6px;
+line-height: 30px;
+text-align: center;
+font-family: SF_TRANSROBOTICS,SF_TRANSROBOTICSIE;
+font-size: 23px;
+text-decoration: none;
+z-index: 50;
+}
+nav a:hover{-webkit-text-stroke: 0.5px white!important;color:white!important;text-shadow:0 0 15px white!important;}
+.slide-out{
+			font-family:swim,swimie !important;
+          background: #C26969 ; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #C26969  0%, #6084B8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#C26969 ), color-stop(100%,#6084B8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(-45deg,  #C26969  0%,#6084B8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(-45deg,  #C26969  0%,#6084B8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(-45deg,  #C26969  0%,#6084B8 100%); /* IE10+ */
+background: linear-gradient(135deg,  #C26969  0%,#6084B8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#C26969 ', endColorstr='#6084B8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+          border: 1px solid #000;
+		  color: white;
+}
+.handle{
+background: #A1747C;
+}

@@ -1,0 +1,45 @@
+/*Akotp Theme*/
+@font-face {
+    font-family: swim;
+    src: url('/css/fonts/helveticaneue-blackcond-webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: swimie;
+	src: url('/css/fonts/helveticaneue-blackcond-webfont.eot');}
+
+#background{
+margin:0 auto;padding:0;
+background-color:#000;
+background-image:url('http://i.imgur.com/2BRA7WX.jpg');
+background-repeat:no-repeat;
+position:fixed;
+background-position:top center;
+width:100%;
+height:1527px;
+}
+#logo{
+background-image: url('http://i.imgur.com/U5wvVUm.png');
+height: 170px;
+width: 598px;
+margin-top: -161px;
+margin-left: -42px;
+position: absolute;
+background-repeat: no-repeat;
+background-size: 567px;
+}
+#page.front{box-shadow:inset 0 0 200px rgba(0, 0, 0, 0.5), 0 21px 60px black;}
+#page{border:solid 1px black; width:1050px;margin-bottom:75px;
+background: rgba(97, 111, 87, 0.68); /* Old browsers */
+}
+nav a {font-family:swim,swimie !important;-webkit-text-stroke: 0.5px #DADADA;color: #DADADA;padding: 0 11px;margin: 0 6px;line-height: 30px;text-align: center;font-family: SF_TRANSROBOTICS,SF_TRANSROBOTICSIE;font-size: 23px;text-shadow: 0 0 10px black;text-decoration: none;z-index:50;}
+nav a:hover{-webkit-text-stroke: 0.5px rgb(233, 43, 43)!important;color:rgb(233, 43, 43)!important;text-shadow:0 0 15px rgb(233, 43, 43)!important;}
+.slide-out{
+			font-family:swim,swimie !important;
+          background: rgba(97, 111, 87, 0.68);
+          border: 1px solid #000;
+		  color: white;
+}
+.handle{
+background: rgba(97, 111, 87, 0.68);
+}

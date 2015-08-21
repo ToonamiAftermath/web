@@ -1,0 +1,33 @@
+/*Aftermath Theme*/
+#background{
+margin:0 auto;padding:0;
+background-color:#000;
+background-image:url('http://i.imgur.com/7qGwcMF.jpg');
+background-repeat:no-repeat;
+position:fixed;
+background-position:top center;
+width:100%;
+height:1527px;
+}
+#logo{
+background-image: url('http://i.imgur.com/LRcwIv0.png');
+height: 170px;
+width: 500px;
+margin-top: -166px;
+position: absolute;
+background-repeat: no-repeat;
+}
+#page.front{}
+#page{border:solid 1px black; border-radius:5px;width:1050px;margin-bottom:75px;
+background: url('http://i.imgur.com/SqamPDH.jpg');
+box-shadow: inset 0 0 200px rgba(0, 0, 0, 1), 0 5px 15px black;
+}
+nav a {-webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.5);color: #C15E3C;padding: 0 11px;margin: 0 6px;line-height: 30px;text-align: center;font-family: SF_TRANSROBOTICS,SF_TRANSROBOTICSIE;font-size: 23px;text-shadow: 0 0 10px black;text-decoration: none;z-index:50;}
+.slide-out{
+          background: #28221F;
+          border: 1px solid #000;
+		  color: white;
+}
+.handle{
+background: #28221F;
+}
